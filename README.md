@@ -19,3 +19,15 @@ Perguntas do negócio:
   Link do Colab: https://colab.research.google.com/github/paulogkl/projeto-integrador-7-trimestre/blob/main/CERTO_projeto_integrador_7_trimestre.ipynb
 
   
+JUSTIFICATIVAS
+
+
+
+
+
+Bibliografia
+
+* AMADEU, C. V. (Org). Banco de dados. São Paulo: Pearson, 2015.
+* FÁVERO, L. P. et al. Análise de dados: modelagem multivariada para tomada de decisões. Rio de Janeiro: Elsevier, 2009.
+* MACHADO, F. N. R. Banco de dados: projeto e implementação. São Paulo: Saraiva, 2014.
+* GÉRON, Aurélien. Mãos à obra: aprendizado de máquina com Scikit-Learn, Keras & TensorFlow: conceitos, ferramentas e técnicas para a construção de sistemas inteligentes. Rio de Janeiro: Alta Books, 2021. 609 p. ISBN 9788550815480.
