@@ -22,11 +22,14 @@ Primeiro, respondendo às perguntas:
 1 - O valor médio das contas é 98,93 reais.
 2 - Domingo é o dia que tem o maior ticket médio.
 3 - Observando o Box Plot é possível constatar que há outliers em todos os dias observados, com valores superando os 200 reais.
-4 - Observando o gráfico de dispersão é possível perceber que há uma correlação positiva entre gorjeta e o total da conta, a "nuvem" se projeta do canto inferior esquerdo para o superior direito. Isso indica que quanto maior a conta maior é a tendência de se ter uma gorjeta mais "gorda".
-5 - 
+4 - Observando a matriz de correlação é possível perceber que há uma correlação positiva entre gorjeta e o total da conta com valor 0.68, ou seja, há uma correlação moderada/forte, quando o valor da conta sobe, o valor da gorjeta também tende a subir.
+5 - Olhando para o último gráfico é possível perceber também que não diferença significativa entre a gorjeta de fumantes e não fumantes.
 
-
-
+Agora extraindo mais algumas informações:
+ - Há uma correlação positiva entre o tamanho da mesa e a gorjeta;
+ - Tickets médios no valor de 200 reais ou mais são raros;
+ - Os dias com contas mais altas são sábado e domingo, indicando que o restaurante pode fazer um menu ou promoções diferenciadas, aumentando o lucro;
+ - Como a média das contas é 98 reais, fazer pratos e promoções específicos para essa faixa de preço é uma boa ideia.
 
 
 Bibliografia
