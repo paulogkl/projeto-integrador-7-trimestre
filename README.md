@@ -16,4 +16,6 @@ Perguntas do negócio:
 
   Base de dados escolhida: https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv
 
+  Link do Colab: https://colab.research.google.com/github/paulogkl/projeto-integrador-7-trimestre/blob/main/CERTO_projeto_integrador_7_trimestre.ipynb
+
   
