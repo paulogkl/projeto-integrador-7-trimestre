@@ -5,7 +5,7 @@ Integrante: Paulo Augusto Silva Amorim
 
 Tema: Análise de consumo e gorjetas em um restaurante.
 
-Escopo: analisar padrões de consumo, dias de maior movimento e comportamento de gorjetas para apoiar decisões gerenciais de precificação, escala da equipe e campanhas de antendimento.
+Escopo: analisar padrões de consumo, dias de maior movimento e comportamento de gorjetas para apoiar decisões gerenciais de precificação, escala da equipe e campanhas de atendimento.
 
 Perguntas do negócio:
 * 1 - Qual é o valor médio das contas?
@@ -14,12 +14,16 @@ Perguntas do negócio:
 * 4 - O valor da gorjeta está relacionado ao valor total da conta?
 * 5 - Fumantes e não fumantes dão gorjetas diferentes?
 
-  Base de dados escolhida: https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv
+Base de dados escolhida: https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv
 
-  Link do Colab: https://colab.research.google.com/github/paulogkl/projeto-integrador-7-trimestre/blob/main/CERTO_projeto_integrador_7_trimestre.ipynb
+Link do Colab: https://colab.research.google.com/github/paulogkl/projeto-integrador-7-trimestre/blob/main/CERTO_projeto_integrador_7_trimestre.ipynb
 
-  
-JUSTIFICATIVAS
+Primeiro, respondendo às perguntas: 
+1 - O valor médio das contas é 98,93 reais.
+2 - Domingo é o dia que tem o maior ticket médio.
+3 - Observando o Box Plot é possível constatar que há outliers em todos os dias observados, com valores superando os 200 reais.
+4 - Observando o gráfico de dispersão é possível perceber que há uma correlação positiva entre gorjeta e o total da conta, a "nuvem" se projeta do canto inferior esquerdo para o superior direito. Isso indica que quanto maior a conta maior é a tendência de se ter uma gorjeta mais "gorda".
+5 - 
 
 
 
